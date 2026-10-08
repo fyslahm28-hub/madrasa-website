@@ -2,5 +2,5 @@
   "name": "উম্মুল মুমিনীন হযরত আয়েশা সিদ্দীকা (রা.) বালিকা মাদ্রাসা",
   "description": "কওমি আদর্শ ও ইসলামী শিক্ষার সমন্বয়ে একটি আদর্শ বালিকা শিক্ষা প্রতিষ্ঠান - ফুরফুরা দরবার, মার্কাযে ইশাআতে ইসলাম, মিরপুর, ঢাকা।",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
